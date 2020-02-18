@@ -1,4 +1,0 @@
-theory ex210
-  imports Main
-begin
-end
